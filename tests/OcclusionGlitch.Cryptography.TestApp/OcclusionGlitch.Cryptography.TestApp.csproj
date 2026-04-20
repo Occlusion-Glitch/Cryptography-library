@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\OcclusionGlitch.Cryptography.Contracts\OcclusionGlitch.Cryptography.Contracts.csproj" />
+    <ProjectReference Include="..\..\src\OcclusionGlitch.Cryptography.Kernel\OcclusionGlitch.Cryptography.Kernel.csproj" />
+    <ProjectReference Include="..\..\src\OcclusionGlitch.Cryptography.Services\OcclusionGlitch.Cryptography.Services.csproj" />
+  </ItemGroup>
+
+</Project>

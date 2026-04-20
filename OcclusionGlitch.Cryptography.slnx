@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OcclusionGlitch.Cryptography.Contracts/OcclusionGlitch.Cryptography.Contracts.csproj" />
+    <Project Path="src/OcclusionGlitch.Cryptography.Kernel/OcclusionGlitch.Cryptography.Kernel.csproj" />
+    <Project Path="src/OcclusionGlitch.Cryptography.Services/OcclusionGlitch.Cryptography.Services.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OcclusionGlitch.Cryptography.TestApp/OcclusionGlitch.Cryptography.TestApp.csproj" />
+    <Project Path="tests/OcclusionGlitch.Cryptography.Tests/OcclusionGlitch.Cryptography.Tests.csproj" />
+  </Folder>
+</Solution>
